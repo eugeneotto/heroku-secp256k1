@@ -1,7 +1,8 @@
 # README
 
 This project can provide a starting point for any Rails 5.2 app that needs to
-handle Ethereum signatures (secp256k1) on Heroku.
+handle Ethereum signatures (secp256k1) on Heroku, similar to
+[CryptoKittydex](https://cryptokittydex.com) and [KittyRace](https://kittyrace.com).
 
 If you deploy this codebase as a new Heroku app, be sure to do the following:
 
